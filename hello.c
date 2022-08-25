@@ -9,7 +9,9 @@
  #include <stdio.h>
 
  int main(int argc, char **argv) {
-    printf("Jack Baldwin\n");
+    printf("Jackson Scott Baldwin!\n");
+
+    printf("Computer Engineering Major\n");
 
     return 0;
  }
